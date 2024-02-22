@@ -1,7 +1,7 @@
 {
-  "name": "THEANT",
-  "website": "https://github.com/khradzzje",
-  "description": "THEANT NODES",
-  "logo": "<https://cdn.custom-cursor.com/packs/725/pack686.png>",
-  "twitter": "https://x.com/TheoQuemar",
+  "name": "<NOM_OPERATEUR>",
+  "website": "<VOTRE_SITE_WEB>",
+  "description": "<DESCRIPTION>",
+  "logo": "<https://www.example.com/logo.png>",
+  "twitter": "<VOTRE_TWITTER>"
 }
